@@ -82,3 +82,4 @@ O código da main está todo comentado para facilitar o entendimento, as funçõ
 todas no começo do arquivo, na main está alguns comentários sobre possíveis chamadas
 da função, para melhor entendimento deve-se ler os comentários da main.
 
+Esse projeto teve como contribuidor Júlio Cabral
